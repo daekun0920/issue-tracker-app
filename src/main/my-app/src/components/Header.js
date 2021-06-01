@@ -8,7 +8,7 @@ export default function Header() {
                     <span className="navbar-toggler-icon"></span>
                 </button>
                 <div className="collapse navbar-collapse" id="navbarTogglerDemo01">
-                <a className="navbar-brand text-white" href="/">Agile Issue Tracker</a>
+                <a className="navbar-brand text-white" href="/">Issue Tracker</a>
                 
                 </div>
             </div>
